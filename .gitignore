@@ -1,0 +1,40 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Tooling and local configuration
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Generated analysis artifacts
+outputs/*.png
+outputs/*.csv
+outputs/*.json
+
+# Customer-level source data: keep local unless publication rights are confirmed
+E-commerce_Customer_Churn_2026.csv
+
+# Logs and OS files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
