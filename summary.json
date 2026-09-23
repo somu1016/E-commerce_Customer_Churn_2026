@@ -1,8 +1,0 @@
-{
-  "records": 50000,
-  "source_columns": 48,
-  "churned_records": 20653,
-  "churn_rate": 0.4131,
-  "best_model": "Histogram Gradient Boosting",
-  "best_auc_roc": 0.7319
-}
